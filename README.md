@@ -1,4 +1,4 @@
-# GFU-Kurs Köln
+# Raspberry Pi Workshop Köln / Januar 2018
 
 Dieses Repository enthält Unterlagen zum Kurs ***"Programmieren lernen mit dem Raspberry Pi I - GFU"*** im Headquarters Köln am 27.01.2018
 
